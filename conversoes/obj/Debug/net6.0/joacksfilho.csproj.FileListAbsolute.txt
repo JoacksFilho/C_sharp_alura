@@ -1,0 +1,15 @@
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/joacksfilho
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/joacksfilho.deps.json
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/joacksfilho.runtimeconfig.json
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/joacksfilho.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/ref/joacksfilho.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/bin/Debug/net6.0/joacksfilho.pdb
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.csproj.AssemblyReference.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.GeneratedMSBuildEditorConfig.editorconfig
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.AssemblyInfoInputs.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.AssemblyInfo.cs
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.csproj.CoreCompileInputs.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/ref/joacksfilho.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.pdb
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/conversoes/obj/Debug/net6.0/joacksfilho.genruntimeconfig.cache

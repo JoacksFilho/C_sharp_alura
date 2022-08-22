@@ -1,0 +1,15 @@
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/variaveis
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/variaveis.deps.json
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/variaveis.runtimeconfig.json
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/variaveis.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/ref/variaveis.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/bin/Debug/net6.0/variaveis.pdb
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.csproj.AssemblyReference.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.AssemblyInfoInputs.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.AssemblyInfo.cs
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.csproj.CoreCompileInputs.cache
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/ref/variaveis.dll
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.pdb
+/home/joacksfilho/Documents/MeusProjetos/c_sharp_alura/variaveis/obj/Debug/net6.0/variaveis.genruntimeconfig.cache
