@@ -16,17 +16,23 @@ class Programa
         
         int somaMultiplos = 0;
 
+      
+
         for (int i = 0; i < numero; i++)
        {    
+
             if(numero < 0)
             {
-                Console.WriteLine(0);// como que usa o return no c#?
+                Console.WriteLine("0");// como que usa o return no c#?
+            
             }
-            if (i % 3 == 0 || i % 5 == 0)
+          
+            else if (i % 3 == 0 || i % 5 == 0)
            {
                somaMultiplos += i;
+             
             }
        }  
-       Console.WriteLine("A soma dos números multiplos de 3 ou 5 é " + somaMultiplos);     
+           Console.WriteLine("A soma dos números multiplos de 3 ou 5 é " + somaMultiplos);    
  }
 }
